@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+deepface
+notebook
+pandas
+matplotlib
+seaborn
+streamlit
+streamlit-webrtc
