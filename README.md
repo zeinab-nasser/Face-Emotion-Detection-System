@@ -15,4 +15,4 @@ An end-to-end Deep Learning application built using **DeepFace** (for facial exp
    ```bash
    venv\Scripts\activate
 ## Deployed Application
-https://face-emotion-detection-system-bj3acerbwlpmh53d3tnhim.streamlit.app/
+https://face-emotion-detection-system-5gh4cytdqejyhqbghshkp6.streamlit.app/
