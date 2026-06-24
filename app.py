@@ -43,7 +43,7 @@ elif mode == "Live Webcam (Beta)":
 
     @st.cache_resource
     def load_deepface_model():
-        DeepFace.build_model("Emotion")
+        DeepFace.build_model(model_name="Emotion", task="facial_attribute")
         return True
 
     load_deepface_model()
