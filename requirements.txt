@@ -1,9 +1,7 @@
-opencv-python-headless
-mediapipe
-deepface
-notebook
-pandas
-matplotlib
-seaborn
 streamlit
 streamlit-webrtc
+opencv-python-headless
+tensorflow
+deepface
+numpy
+Pillow
