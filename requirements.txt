@@ -1,8 +1,8 @@
 streamlit
 streamlit-webrtc
 opencv-python-headless
-tensorflow==2.12.0
-deepface==0.0.79
+tensorflow
+deepface
 tf-keras
 numpy<2.0.0
 Pillow
