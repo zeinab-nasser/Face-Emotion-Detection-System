@@ -14,3 +14,5 @@ An end-to-end Deep Learning application built using **DeepFace** (for facial exp
 1. Activate your virtual environment:
    ```bash
    venv\Scripts\activate
+## Deployed Application
+https://face-emotion-detection-system-qhc9sl7rqknatdf3dcvpry.streamlit.app/
